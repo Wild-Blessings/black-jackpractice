@@ -1,0 +1,40 @@
+body{
+   
+   background-image: url(/chuck.jpg);
+   background-color:none;
+    background-size: cover;
+    background-repeat:none;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    }
+    
+    #message-el{
+        font-style: italic;
+        
+    }
+    
+    #button-el{
+        text-align: center;
+        color:goldenrod;
+        background-color: darkblue;
+        width: 150px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-weight: bold;
+        border:none;
+        border-radius: 2px;
+    }
+    
+    #newCard-el{
+        text-align: center;
+        color:goldenrod;
+        background-color: darkblue;
+        width: 150px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-weight: bold;
+        border:none;
+        border-radius: 2px;
+        margin: 2px;
+    }
